@@ -6,8 +6,9 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @author fangminmin
+ * @author cyanfang
  * @description MQ sender
+ * @date 2020-12-22
  * */
 public class MessageSender {
     Logger logger= LoggerFactory.getLogger(MessageSender.class);
